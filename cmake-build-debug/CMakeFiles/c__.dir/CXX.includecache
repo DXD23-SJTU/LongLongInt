@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xudading/学习/c++/c++study/c++/LongLongInt.cpp
+list
+-
+LongLongInt.h
+/Users/xudading/学习/c++/c++study/c++/LongLongInt.h
+
+/Users/xudading/学习/c++/c++study/c++/LongLongInt.h
+cstdlib
+-
+iostream
+-
+stack
+-
+
+/Users/xudading/学习/c++/c++study/c++/main.cpp
+LongLongInt.h
+/Users/xudading/学习/c++/c++study/c++/LongLongInt.h
+
